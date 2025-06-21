@@ -32,18 +32,6 @@ View the calculated resistance, tolerance, and coefficient.
 
 The visual resistor image will change colors accordingly.
 
-📷 Screenshot
-(You can add a screenshot here once your web app is built)
-
-💻 How to Run Locally
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/resistor-color-code.git
-cd resistor-color-code
-Open index.html in your browser.
 
 📚 Educational Use
 This project is a great resource to:
